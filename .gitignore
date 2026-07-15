@@ -1,0 +1,5 @@
+*.zip
+.vscode/
+ImageData/
+ImageDataSmall/
+UTKFace/
